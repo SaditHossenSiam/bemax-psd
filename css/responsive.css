@@ -1,0 +1,87 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.main-menu ul li .mega-menu {
+	left:-100px;
+}
+.choose-img {
+	margin-top: 100px;
+}
+.bottom-link ul li a {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+	.main-menu ul li .mega-menu {
+	left: -100px;
+}
+.hireUs-area p {
+	margin-top: 20px;
+}
+.project-content {
+	padding: 33px 10px;
+}
+.blog-thum {
+	float: none;
+	display: inline-block;
+}
+.blog-content {
+	padding-left: 0;
+}
+.H3 {
+	margin-top: 15px;
+}
+.header-form {
+	right: -53px;
+}
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.slider-content a {
+	padding: 11px 30px;
+}
+.slider-content h1 {
+	font-size: 35px;
+}
+.slider-content h2 {
+	font-size: 20px;
+}
+.cart-content {
+	transform: translateY(90%);
+}
+ .project-content {
+	padding: 11px 0px;
+}
+.project-content h3 {
+	font-size: 14px;
+}
+.project-content span {
+	font-size: 14px;
+}
+.container {
+	width: 100%;
+}
+.blog-thum {
+   float: none;
+}
+.blog-items {
+	margin-bottom: 20px;
+}
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
